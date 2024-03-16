@@ -1,4 +1,4 @@
-ระบบนี้เขียนด้วยภาษา Dart(Flutter) ดู Code ใน file Exchange-Rate
+ระบบนี้เขียนด้วยภาษา Dart(Flutter) ดู Code ใน file exchangerate
 
 ตัวอย่างผลลัพธ์ของ Project : Currency Exchange rate system integration with Bank of Thailand.
 
